@@ -5,9 +5,6 @@ Jquery UI Indonesian
 
 Plugin untuk Jquery UI berbahasa indonesia .
 
-Daftar file :
-
-1. jquery.ui.datepicker-id.js
-
-
-Support @wakuadratn
+Preview
+-------
+![Gallery Preview](http://wakuadratn.files.wordpress.com/2013/06/jquery-ui-datepicker-id1.jpg)
